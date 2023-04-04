@@ -1,4 +1,4 @@
-Free for commercial use countries and cities data perfect suited for using with autocomplete. Pasred from [SimpleMaps](https://simplemaps.com/data/world-cities)
+Free for commercial use countries and cities data perfectly suited for using with autocomplete. Parsed from [SimpleMaps](https://simplemaps.com/data/world-cities)
 
 239 countries and 42905 cities.
 
