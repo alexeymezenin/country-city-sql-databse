@@ -6,7 +6,7 @@ The data is much cleaner than Geonames or several similar sources of geo data an
 
 The SQL file contains indexes and foreign key constraint and is ready to use.
 
-I've also included parser, feel free to modify it for you own needs. Data source file is also included, or you can download a fresh copy from [SimpleMaps](https://simplemaps.com/data/world-cities)
+I've also included parser, feel free to modify it for your own needs. Data source file is also included, or you can download a fresh copy from [SimpleMaps](https://simplemaps.com/data/world-cities)
 
 `countries` table structure
 
